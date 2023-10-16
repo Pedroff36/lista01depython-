@@ -1,0 +1,6 @@
+a=int(input('digite sua primeira nota'))
+b=int(input('digite seu segundo nota'))
+c=int(input('digite sua terceira nota '))
+d=int(input('digite sua quarta nota'))
+media=(a+b+c+d)
+print('sua media e:',media/4)
